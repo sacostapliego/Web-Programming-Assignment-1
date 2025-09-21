@@ -7,7 +7,7 @@ body {
 
 .center-hero {
   display: flex;
-  justify-content: center; /* horizontal */
+  justify-content: center;
   text-align: center;
   padding: 24px;
 }
@@ -88,7 +88,6 @@ body {
   text-align: center;
 }
 
-/* Zebra-striped table, no borders */
 table {
   width: 100%;
   border-collapse: collapse;
