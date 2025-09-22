@@ -5,6 +5,16 @@ body {
     font-family: sans-serif;
 }
 
+a:hover {
+  color: #c0392b;          /* change color on hover */
+  text-decoration: underline;
+}
+
+.keyword {
+  color: #b0cee2;
+  font-weight: bold;
+}
+
 .center-hero {
   display: flex;
   justify-content: center;
